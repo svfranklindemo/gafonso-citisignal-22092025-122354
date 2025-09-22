@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/:/",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/configuration:/.helix/config.json",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/metadata:/metadata.json",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/configs:/configs.json",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/configs-stage:/configs-stage.json",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/configs-dev:/configs-dev.json",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/redirects:/redirects.json",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/placeholders:/placeholders.json",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/products/recommended-products:/products/recommended-products.json",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/gafonso/gafonso-bradesco-2025-9-22-9-23-43",
       "/content/dam/citisignal/images/products/"
     ]
 }
